@@ -12,7 +12,7 @@ then extending to cross sections with structure and finally including effects su
 Four codes participated: 
 ERYA (Lisbon), NDF (Lisbon), PIGRECO (Athens), SIMNRA (Garching) 
 
-The exercises and conclusions were published in Barradas et al., NIMB 468 (2020) 37.
+The exercises and conclusions were published in Barradas et al., NIMB 468 (2020) 37 (https://doi.org/10.1016/j.nimb.2020.02.019).
 The numerical results of the inter-comparison are found in PIGE-I-intercomparison.xlsx
 The individual code results are included in the codes folders.
 
@@ -29,7 +29,7 @@ ERYA-profiling (Lisbon), NDF (Lisbon), SIMNRA (Garching), SPACES (Paris).
 
 The numerical results of the inter-comparison are included in folder PIGE-II-intercomparison.
 The individual code results are included in the codes folders.
-The exercise will be published in a peer-reviewed journal.
+The exercise was published in Barradas et al., NIMB 573 (2026) 166034 (https://doi.org/10.1016/j.nimb.2026.166034). 
 
 The urls for all the IBA codes used in these two IAEA inter-comparisons are listed below:
 
